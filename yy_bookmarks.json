@@ -30,11 +30,6 @@
           "latlng": "52.520606,13.459045",
           "label": "Eis Klecks"
         },
-        "id1481237962521": {
-          "guid": "28486ab1be634c87975c26bc29d6864d.16",
-          "latlng": "52.520745,13.453121",
-          "label": "AXA, Mühsamstr. 64"
-        },
         "id1481238053449": {
           "guid": "0ba6dc232a554f6a8ac96bb2f4662ca0.16",
           "latlng": "52.520324,13.459919",
@@ -54,11 +49,6 @@
           "guid": "7606b8978d944896be6a8a6ca5ca1660.11",
           "latlng": "52.516899,13.46283",
           "label": "Heinrich-Hertz-Gymnasium"
-        },
-        "id1481238232518": {
-          "guid": "5dce9e6fdcdb4a768c844e8726ef9e6f.16",
-          "latlng": "52.51591,13.463482",
-          "label": "Stolperstein Wolff"
         },
         "id1481238238820": {
           "guid": "8c997f622b9c48efba02ff3988d03c59.16",
@@ -109,12 +99,17 @@
           "guid": "3e082118107b46a5b6e8de02e8e7f0f4.16",
           "latlng": "52.522602,13.455816",
           "label": "Städtische Straßenreinigung am Zentralviehhof"
+        },
+        "id1481237962521": {
+          "guid": "28486ab1be634c87975c26bc29d6864d.16",
+          "latlng": "52.520745,13.453121",
+          "label": "AXA, Mühsamstr. 64"
         }
       }
     },
     "id1481237822067": {
       "label": "YY_green_fields",
-      "state": 0,
+      "state": 1,
       "bkmrk": {
         "id1481238623837": {
           "guid": "51df8d94d8df40e8b147386db9eb25f6.16",
@@ -156,15 +151,15 @@
           "latlng": "52.516479,13.462067",
           "label": "Glas-Pyramide Kantine"
         },
-        "id1481238665818": {
-          "guid": "4b4de7862e1d48739d9fb13722d3690a.16",
-          "latlng": "52.513368,13.463994",
-          "label": "Smiling Sun"
-        },
         "id1481238671361": {
           "guid": "f5868b33729d4c5e937b129cbad7dad4.16",
           "latlng": "52.514652,13.463199",
           "label": "Stolpersteine Ludwig und Alexander Kain"
+        },
+        "id1481238665818": {
+          "guid": "4b4de7862e1d48739d9fb13722d3690a.16",
+          "latlng": "52.513368,13.463994",
+          "label": "Smiling Sun"
         },
         "id1481238679791": {
           "guid": "e3cf1125f3044732acb582bac415ef0e.16",
@@ -235,12 +230,17 @@
           "guid": "f96bfcbd6fe241038c8f6e44068cfdb5.16",
           "latlng": "52.512885,13.451796",
           "label": "Hortensien an der Wand"
+        },
+        "id1481388321927": {
+          "guid": "92968cea0b1748d890c24d7803702ddc.16",
+          "latlng": "52.513809,13.452725",
+          "label": "Kraftklub"
         }
       }
     },
     "id1481237832184": {
       "label": "YY_blue_eye",
-      "state": 0,
+      "state": 1,
       "bkmrk": {
         "id1481238998819": {
           "guid": "bef204efccee486f8666b008b463febd.16",
