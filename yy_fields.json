@@ -1,6 +1,7 @@
 [
   {
     "type": "polygon",
+    "label": "blue_eye pt.1",
     "latLngs": [
       {
         "lat": 52.517773,
@@ -19,6 +20,7 @@
   },
   {
     "type": "polygon",
+    "label": "blue_eye pt.2",
     "latLngs": [
       {
         "lat": 52.517773,
@@ -37,6 +39,7 @@
   },
   {
     "type": "polygon",
+    "label": "blue_eye pt.3",
     "latLngs": [
       {
         "lat": 52.517773,
@@ -55,6 +58,7 @@
   },
   {
     "type": "polygon",
+    "label": "blue_eye pt.4",
     "latLngs": [
       {
         "lat": 52.517773,
@@ -73,6 +77,7 @@
   },
   {
     "type": "polygon",
+    "label": "blue_eye pt.5",
     "latLngs": [
       {
         "lat": 52.517773,
@@ -91,6 +96,7 @@
   },
   {
     "type": "polygon",
+    "label": "blue_eye pt.6",
     "latLngs": [
       {
         "lat": 52.517773,
@@ -109,6 +115,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.1",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -127,6 +134,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.2",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -145,6 +153,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.3",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -163,6 +172,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.4",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -181,6 +191,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.5",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -199,6 +210,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.6",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -217,6 +229,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.7",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -235,6 +248,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_eye pt.8",
     "latLngs": [
       {
         "lat": 52.515931,
@@ -253,6 +267,7 @@
   },
   {
     "type": "polygon",
+    "label": "example protection",
     "latLngs": [
       {
         "lat": 52.516706,
@@ -295,6 +310,7 @@
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.1",
     "latLngs": [
       {
         "lat": 52.514863,
@@ -309,10 +325,11 @@
         "lng": 13.475581
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.2",
     "latLngs": [
       {
         "lat": 52.514677,
@@ -327,10 +344,11 @@
         "lng": 13.475581
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.3",
     "latLngs": [
       {
         "lat": 52.51407,
@@ -345,10 +363,11 @@
         "lng": 13.475581
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.4",
     "latLngs": [
       {
         "lat": 52.512853,
@@ -363,10 +382,11 @@
         "lng": 13.475581
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.5",
     "latLngs": [
       {
         "lat": 52.512863,
@@ -381,10 +401,11 @@
         "lng": 13.475581
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.6",
     "latLngs": [
       {
         "lat": 52.516899,
@@ -399,10 +420,11 @@
         "lng": 13.475581
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.7",
     "latLngs": [
       {
         "lat": 52.516899,
@@ -417,10 +439,11 @@
         "lng": 13.471737
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.8",
     "latLngs": [
       {
         "lat": 52.518145,
@@ -435,10 +458,11 @@
         "lng": 13.471737
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.9",
     "latLngs": [
       {
         "lat": 52.519749,
@@ -453,10 +477,11 @@
         "lng": 13.471737
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.10",
     "latLngs": [
       {
         "lat": 52.520324,
@@ -471,10 +496,11 @@
         "lng": 13.471737
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.11",
     "latLngs": [
       {
         "lat": 52.520324,
@@ -489,10 +515,11 @@
         "lng": 13.464233
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.12",
     "latLngs": [
       {
         "lat": 52.520606,
@@ -507,10 +534,11 @@
         "lng": 13.464233
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.13",
     "latLngs": [
       {
         "lat": 52.520606,
@@ -525,10 +553,11 @@
         "lng": 13.455816
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.14",
     "latLngs": [
       {
         "lat": 52.520254,
@@ -543,10 +572,11 @@
         "lng": 13.455816
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.15",
     "latLngs": [
       {
         "lat": 52.520254,
@@ -561,10 +591,11 @@
         "lng": 13.453121
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.16",
     "latLngs": [
       {
         "lat": 52.519035,
@@ -579,10 +610,11 @@
         "lng": 13.453121
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.17",
     "latLngs": [
       {
         "lat": 52.518183,
@@ -597,10 +629,11 @@
         "lng": 13.453121
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "blue_field pt.18",
     "latLngs": [
       {
         "lat": 52.51684,
@@ -615,10 +648,11 @@
         "lng": 13.453121
       }
     ],
-    "color": "#0028f9"
+    "color": "#0000ff"
   },
   {
     "type": "polygon",
+    "label": "green_field pt.1",
     "latLngs": [
       {
         "lat": 52.519541,
@@ -637,6 +671,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.2",
     "latLngs": [
       {
         "lat": 52.519541,
@@ -655,6 +690,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.2",
     "latLngs": [
       {
         "lat": 52.519541,
@@ -673,6 +709,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.3",
     "latLngs": [
       {
         "lat": 52.519373,
@@ -691,6 +728,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.4",
     "latLngs": [
       {
         "lat": 52.517874,
@@ -709,6 +747,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.5",
     "latLngs": [
       {
         "lat": 52.515977,
@@ -727,6 +766,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.6",
     "latLngs": [
       {
         "lat": 52.515977,
@@ -745,6 +785,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.7",
     "latLngs": [
       {
         "lat": 52.517406,
@@ -763,6 +804,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.8",
     "latLngs": [
       {
         "lat": 52.517406,
@@ -781,6 +823,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.9",
     "latLngs": [
       {
         "lat": 52.516479,
@@ -799,6 +842,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.10",
     "latLngs": [
       {
         "lat": 52.513368,
@@ -817,6 +861,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.11",
     "latLngs": [
       {
         "lat": 52.513368,
@@ -835,6 +880,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.12",
     "latLngs": [
       {
         "lat": 52.513368,
@@ -853,6 +899,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.13",
     "latLngs": [
       {
         "lat": 52.513368,
@@ -871,6 +918,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.14",
     "latLngs": [
       {
         "lat": 52.512897,
@@ -889,6 +937,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.15",
     "latLngs": [
       {
         "lat": 52.51231,
@@ -907,6 +956,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.16",
     "latLngs": [
       {
         "lat": 52.51231,
@@ -925,6 +975,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.17",
     "latLngs": [
       {
         "lat": 52.51231,
@@ -943,6 +994,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.18",
     "latLngs": [
       {
         "lat": 52.512044,
@@ -961,6 +1013,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.19",
     "latLngs": [
       {
         "lat": 52.512044,
@@ -979,6 +1032,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.20",
     "latLngs": [
       {
         "lat": 52.51327,
@@ -997,6 +1051,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.21",
     "latLngs": [
       {
         "lat": 52.51327,
@@ -1015,6 +1070,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.22",
     "latLngs": [
       {
         "lat": 52.513838,
@@ -1033,6 +1089,7 @@
   },
   {
     "type": "polygon",
+    "label": "green_field pt.23",
     "latLngs": [
       {
         "lat": 52.513853,
